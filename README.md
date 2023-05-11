@@ -19,8 +19,8 @@
 </div>
 <div>
     <h3> IDE que uso. <h3>
-        <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-        <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+        <link align="center" height="30" width="40" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+        <link align="center" height="30" width="40" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </div>
 <div>
     <h1> Contato <h1>
