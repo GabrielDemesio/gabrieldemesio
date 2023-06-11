@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente trabalho com TI 
 - 🌱  Estudando Back-End 
+
     ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDemesio&show_icons=true&theme=dracula&count_private=true)
 
 <div style="display: inline_block">
