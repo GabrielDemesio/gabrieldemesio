@@ -2,6 +2,8 @@
 
 - 🔭 Atualmente trabalho com TI 
 - 🌱  Estudando Back-End 
+    ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDemesio&show_icons=true&theme=dracula&count_private=true)
+
 <div style="display: inline_block">
     <h1> Linguagens. <h1>
     <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -26,8 +28,6 @@
     <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
     <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
     <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
-    ![Gabriel GitHub stats]("https://github-readme-stats.vercel.app/api?username=GabrielDemesio&show_icons=true&theme=dracula&count_private=true")
-    
         
 </div>
 <div>
