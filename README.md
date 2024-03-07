@@ -1,6 +1,6 @@
 ### Olá sou Gabriel.
 
-- 🔭 Atualmente trabalho com TI 
+- 🔭  Analista Suporte
 - 🌱  Estudando Back-End 
 
     ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDemesio&show_icons=true&theme=dracula&count_private=true)
