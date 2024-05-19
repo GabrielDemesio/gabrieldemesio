@@ -1,7 +1,7 @@
 ### Olá sou Gabriel.
 
-- 🔭  Analista Suporte
-- 🌱  Estudando Back-End 
+- 🔭  Analista de Sustentação.
+- 🌱  Dev Back-End 
 
     ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDemesio&show_icons=true&theme=dracula&count_private=true)
 
