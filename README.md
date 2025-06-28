@@ -6,7 +6,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielDemesio&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas de Gabriel no GitHub" height="195px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDemesio&layout=compact&theme=dracula&exclude_repo=NOME_DO_SEU_REPO_PYTHON&cache_seconds=1" alt="Linguagens mais usadas por Gabriel" height="195px" />  <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDemesio&layout=compact&theme=dracula&cache_seconds=1" alt="Linguagens mais usadas por Gabriel" height="195px" />  <br>
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielDemesio&theme=dracula" alt="Contribuições totais e streak de Gabriel" />
 </div>
